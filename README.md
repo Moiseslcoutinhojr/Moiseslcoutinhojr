@@ -1,8 +1,10 @@
 ### Olá, eu sou o Moisés 😃 
           
-![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=Moises&show_icons=true&theme=tokyonight)
-          
-          
+ <a href="https://github.com/Moiseslcoutinhojr">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Moiseslcoutinhojr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>         
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseslcoutinhojr&layout=compact&langs_count=7&theme=react" />
+
+                 
 ### Tecnologias que uso no dia a dia
 
  <div style="display: inline_block"><br>
