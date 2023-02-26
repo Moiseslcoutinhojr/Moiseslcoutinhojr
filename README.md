@@ -2,7 +2,7 @@
           
  <a href="https://github.com/Moiseslcoutinhojr">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Moiseslcoutinhojr&show_icons=true&theme=react&include_all_commits=true&count_public=true"/>         
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseslcoutinhojr&layout=compact&langs_count=7&theme=react" />
+  <img height="100em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseslcoutinhojr&layout=compact&langs_count=7&theme=react" />
 
                  
 ### Tecnologias que uso no dia a dia
